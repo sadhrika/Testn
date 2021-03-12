@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-15">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="E:/Sadhrika481/drivers/testng-7.0.0.jar"/>
+	<classpathentry kind="lib" path="E:/Sadhrika481/Day 1/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/commons-codec-1.13.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/commons-compress-1.20.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/commons-io-2.8.0.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/commons-lang3-3.11.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/gson-2.8.6.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/httpclient5-5.0.3.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/httpcore5-5.0.2.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/httpcore5-h2-5.0.2.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/jarchivelib-1.1.0.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/jsoup-1.13.1.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/slf4j-api-1.7.30.jar"/>
+	<classpathentry kind="lib" path="//Desktop-f26m0ot/xml/Automation/Day 3/WebDriver Manager Jar/webdrivermanager-4.3.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
